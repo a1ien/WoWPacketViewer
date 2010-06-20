@@ -1,0 +1,14 @@
+G:\sniff\packview\bin\Debug\WoWPacketViewer.exe.config
+G:\sniff\packview\bin\Debug\WoWPacketViewer.exe
+G:\sniff\packview\bin\Debug\WoWPacketViewer.pdb
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\ResolveAssemblyReference.cache
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\WoWPacketViewer.FrmMain.resources
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\WoWPacketViewer.FrmWardenDebug.resources
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\WoWPacketViewer.Properties.Resources.resources
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\WoWPacketViewer.FrmSearch.resources
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\GenerateResource.read.1.tlog
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\GenerateResource.write.1.tlog
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\WoWPacketViewer.exe
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\WoWPacketViewer.pdb
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\sniff\packview\src\WoWPacketViewer\obj\Debug\GenerateResource-ResGen.write.1.tlog

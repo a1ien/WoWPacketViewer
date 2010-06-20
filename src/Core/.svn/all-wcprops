@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/241/trunk/WowTools/src/Core
+END
+Opcodes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/229/trunk/WowTools/src/Core/Opcodes.cs
+END
+Coords3.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/215/trunk/WowTools/src/Core/Coords3.cs
+END
+Coords4.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/215/trunk/WowTools/src/Core/Coords4.cs
+END
+Core.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/241/trunk/WowTools/src/Core/Core.csproj
+END
+SplineInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/241/trunk/WowTools/src/Core/SplineInfo.cs
+END
+MovementInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/241/trunk/WowTools/src/Core/MovementInfo.cs
+END
+SplineFlags.cs
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/228/trunk/WowTools/src/Core/SplineFlags.cs
+END
+MovementFlags.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/228/trunk/WowTools/src/Core/MovementFlags.cs
+END
+BinaryReaderExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/237/trunk/WowTools/src/Core/BinaryReaderExtensions.cs
+END
+TransportInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/241/trunk/WowTools/src/Core/TransportInfo.cs
+END
+UpdateFields.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/226/trunk/WowTools/src/Core/UpdateFields.cs
+END

@@ -1,0 +1,5 @@
+G:\sniff\packview\bin\Debug\WowTools.Core.dll
+G:\sniff\packview\bin\Debug\WowTools.Core.pdb
+G:\sniff\packview\src\Core\obj\Debug\ResolveAssemblyReference.cache
+G:\sniff\packview\src\Core\obj\Debug\WowTools.Core.dll
+G:\sniff\packview\src\Core\obj\Debug\WowTools.Core.pdb

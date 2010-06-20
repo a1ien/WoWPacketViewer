@@ -1,0 +1,10 @@
+G:\sniff\packview\bin\Release\WowTools.Core.dll
+G:\sniff\packview\bin\Release\WowTools.Core.pdb
+G:\sniff\packview\src\Core\obj\Release\ResolveAssemblyReference.cache
+G:\sniff\packview\src\Core\obj\Release\WowTools.Core.dll
+G:\sniff\packview\src\Core\obj\Release\WowTools.Core.pdb
+G:\sniff\WoWPacketViewer\bin\Release\WowTools.Core.dll
+G:\sniff\WoWPacketViewer\bin\Release\WowTools.Core.pdb
+G:\sniff\WoWPacketViewer\src\Core\obj\Release\ResolveAssemblyReference.cache
+G:\sniff\WoWPacketViewer\src\Core\obj\Release\WowTools.Core.dll
+G:\sniff\WoWPacketViewer\src\Core\obj\Release\WowTools.Core.pdb
